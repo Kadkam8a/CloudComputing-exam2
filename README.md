@@ -23,4 +23,6 @@ Implement the command:
   3) Use wget and scp for the data upload and download.
   4) Create a GitHub repository.
   
-## Result
+## Plot
+
+ ![Alt text](https://github.com/Kadkam8a/CloudComputing-exam2/blob/main/Plot.jpg 'Plot')
